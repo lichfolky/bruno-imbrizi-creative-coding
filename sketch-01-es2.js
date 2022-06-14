@@ -18,11 +18,10 @@ const sketch = () => {
     const marginHorizontal = width * 0.05;
     const marginVertical = width * 0.05;
 
-    let w = width * 0.12;
+    let w = width / 6;
     let h = w;
-
-    const gap = width * 0.02;
-    const off = width * 0.04;
+    const gap = width * 0.015;
+    const off = width * 0.05;
 
     let x, y;
 

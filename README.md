@@ -24,11 +24,20 @@ canvas-sketch sketch-02 --output=output/02
 
 ## Schetch 01
 
+![sketch-01](docs/sketch-01.png)
+
 Canvas and js basic concepts
-[sketch-01-es1](https://codepen.io/Lichfolky/pen/QWQBaMW)
-sketch-01-es2 `npx canvas-sketch-cli sketch-01-es2.js`
+![sketch-01-es1](https://codepen.io/Lichfolky/pen/QWQBaMW)
+
+### sketch-01-es2
+
+![sketch-01b](docs/sketch-01b.png)
+
+`npx canvas-sketch-cli sketch-01-es2.js`
 
 ## Schetch 02
+
+![sketch-02](docs/sketch-02.png)
 
 translate
 
@@ -40,3 +49,11 @@ translate
 ratation, degrees and radiants
 scale
 [canvas-sketch-util](https://github.com/mattdesl/canvas-sketch-util)
+
+https://ramesaliyev.com/trigonoparty/
+https://www.mathsisfun.com/geometry/radians.html
+
+![sketch-02a](docs/sketch-02a.png)
+![sketch-02b](docs/sketch-02b.png)
+
+## Schetch 03
