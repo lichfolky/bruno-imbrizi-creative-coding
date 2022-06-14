@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "canvas-sketch": "^0.7.5",
+    "canvas-sketch-cli": "^1.0.3"
+  }
+}
