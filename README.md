@@ -7,19 +7,19 @@ Exercises from this [course](https://www.domestika.org/it/courses/2729-coding-cr
 Install canvas sketch:
 
 ```
-npm install canvas-sketch-cli -D
+npm install canvas-sketch-cli -g
 ```
 
 Create a new sketch
 
 ```
-npx canvas-sketch-cli sketch-01.js --new
+canvas-sketch sketch.js --new --open
 ```
 
 Set a screenshot folder
 
 ```
-npx canvas-sketch-cli sketch-01.js --output=output/01
+canvas-sketch sketch-02 --output=output/02
 ```
 
 ## Schetch 01
@@ -30,7 +30,7 @@ sketch-01-es2 `npx canvas-sketch-cli sketch-01-es2.js`
 
 ## Schetch 02
 
-translations
+translate
 
 `context.translate(x, y);`
 `context.rotate(0.3);`
@@ -38,3 +38,5 @@ translations
 `context.restore();`
 
 ratation, degrees and radiants
+scale
+[canvas-sketch-util](https://github.com/mattdesl/canvas-sketch-util)
