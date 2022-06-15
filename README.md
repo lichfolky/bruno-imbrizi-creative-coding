@@ -57,3 +57,26 @@ https://www.mathsisfun.com/geometry/radians.html
 ![sketch-02b](docs/sketch-02b.png)
 
 ## Schetch 03
+
+Objects, classes and animations
+
+![sketch-03](docs/sketch-03.gif)
+
+https://github.com/mattdesl/canvas-sketch/blob/master/docs/exporting-artwork.md#ffmpeg-streaming
+
+```
+npm install @ffmpeg-installer/ffmpeg --global
+```
+
+```
+# Save animations to MP4 file
+canvas-sketch sketch-03 --output=output/03 --stream
+
+# Save animations to GIF file instead
+canvas-sketch sketch-03 --output=output/03 --stream=gif
+
+# Save animations to GIF but scale it down to 512 px wide
+canvas-sketch sketch-03 --output=output/03 --stream [ gif --scale=512:-1 ]
+```
+
+ctrl + shift + s
