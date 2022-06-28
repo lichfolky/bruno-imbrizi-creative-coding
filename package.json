@@ -4,6 +4,7 @@
     "canvas-sketch-cli": "^1.0.3"
   },
   "dependencies": {
-    "canvas-sketch-util": "^1.10.0"
+    "canvas-sketch-util": "^1.10.0",
+    "tweakpane": "^3.1.0"
   }
 }

@@ -80,3 +80,18 @@ canvas-sketch sketch-03 --output=output/03 --stream [ gif --scale=512:-1 ]
 ```
 
 ctrl + shift + s
+
+## Schetch 04
+
+![sketch-04](docs/sketch-04.gif)
+![sketch-04a](docs/sketch-04a.gif)
+
+noise:
+https://www.shadertoy.com/view/Xd3GRf
+
+PerlinNoise:
+http://web.archive.org/web/20160530124230/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm
+OpenSimplex:
+https://www.youtube.com/watch?v=Lv9gyZZJPE0
+
+https://cocopon.github.io/tweakpane/
