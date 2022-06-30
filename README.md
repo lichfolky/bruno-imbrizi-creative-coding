@@ -99,5 +99,9 @@ https://cocopon.github.io/tweakpane/
 
 ## Schetch 05
 
+![sketch-05](docs/sketch-05.png)
+![sketch-05a](docs/sketch-05a.png)
+
 https://www.w3schools.com/tags/ref_canvas.asp
+
 https://developer.mozilla.org/en-US/docs/Web/API/TextMetrics
