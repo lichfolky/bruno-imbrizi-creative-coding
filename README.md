@@ -91,7 +91,13 @@ https://www.shadertoy.com/view/Xd3GRf
 
 PerlinNoise:
 http://web.archive.org/web/20160530124230/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm
+
 OpenSimplex:
 https://www.youtube.com/watch?v=Lv9gyZZJPE0
 
 https://cocopon.github.io/tweakpane/
+
+## Schetch 05
+
+https://www.w3schools.com/tags/ref_canvas.asp
+https://developer.mozilla.org/en-US/docs/Web/API/TextMetrics
