@@ -1,6 +1,6 @@
 # Sketches
 
-Exercises from this [course](https://www.domestika.org/it/courses/2729-coding-creativo-realizza-visual-con-javascript/course), using [canvas-sketch](https://github.com/mattdesl/canvas-sketch) to manipolate [the canvas webAPI](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+Exercises using [canvas-sketch](https://github.com/mattdesl/canvas-sketch) to manipolate [the canvas webAPI](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 [Canvas reference](https://www.w3schools.com/tags/ref_canvas.asp)
 
